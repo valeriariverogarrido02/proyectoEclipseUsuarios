@@ -8,6 +8,7 @@ public class Persona
     private String nombre;
     private int edad;
     private Date fechaNacimiento; 
+    private String apellido;
     // Métodos de la clase Persona
     public String getNombre()
     {
