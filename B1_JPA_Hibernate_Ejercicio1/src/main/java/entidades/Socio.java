@@ -25,6 +25,7 @@ public class Socio implements Serializable {
 
 	@Column(name="NOMBRE")
 	private String nombre;
+	private String apellido;
 
 
 	public Socio() {
